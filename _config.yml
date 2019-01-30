@@ -1,10 +1,10 @@
 # Site settings
 title: CHONG DANG
-SEOTitle: Chong Dang's BLOG | 党翀的博客
+SEOTitle: RICKY'S BLOG | 党翀的博客
 header-img: img/home-bg.jpg
 email: rickydangc@yahoo.com
-description: "Machine Learning、Computer Science | 党翀，Data Science Lover，Software Engineer"
-keyword: "党翀, Ricky, Chong Dang, @rickydangc, 清新牛儿, Blog, Personal Website, Internet, Web, Python, Data Science, Machine Learning"
+description: "Machine Learning、Computer Science | 党翀，Data Scientist，Software Engineer"
+keyword: "党翀, Ricky, Chong Dang, rickydangc, Blog, Personal Website, Internet, Web, Python, Data Science, Machine Learning"
 url: ""                                   # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -14,11 +14,11 @@ future: true
 # SNS settings
 RSS: false
 weibo_username:     313329157@qq.com
-zhihu_username:     huxpro
+# zhihu_username:     huxpro
 github_username:    rickydangc
-twitter_username:   huxpro
-#facebook_username:  huxpro
-linkedin_username:  Chong-Dang-rickydangc
+twitter_username:   313329157@qq.com
+facebook_username:  313329157@qq.com
+linkedin_username:  rickydangc
 
 
 
@@ -71,14 +71,14 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+# ga_domain: huangxuan.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>Love Data，Love Coding"
+sidebar-about-description: "Love Data，Love Coding"
 sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -106,34 +106,13 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
+        title: "Ruixin Zheng",
+        href: "https://www.linkedin.com/in/ruixinzheng/"
     },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
+        title: "Guangyu Wang",
+        href: "https://www.linkedin.com/in/guangyuwang/"
     },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
-    },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
+        title: "Ping Feng",
+        href: "https://www.linkedin.com/in/ping-feng-5636b526/"
     }
 ]
