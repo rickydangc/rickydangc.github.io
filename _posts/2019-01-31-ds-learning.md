@@ -8,9 +8,7 @@ tags:
   - Data Science
 ---
 
-## Here are some of excellent data science free resources.
-
-### Data Analyst Nanodegree
+#### Data Analyst Nanodegree
 
 We built this program with expert analysts and scientists at leading technology
 companies to ensure you master the exact skills necessary to build a career in
@@ -33,7 +31,7 @@ Learn to clean up messy data, uncover patterns and insights, make predictions us
 ---
 
 
-### Machine Learning Engineer Nanodegree
+#### Machine Learning Engineer Nanodegree
 
 Machine learning represents a key evolution in the fields of computer
 science, data analysis, software engineering, and artificial intelligence.
