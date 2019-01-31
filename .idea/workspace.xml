@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47143e55-801f-439b-a23f-82d204e00b1f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/about/en.md" afterPath="$PROJECT_DIR$/_includes/about/en.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/about/zh.md" afterPath="$PROJECT_DIR$/_includes/about/zh.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -85,7 +85,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="en.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="en.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/about/en.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
@@ -98,12 +98,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zh.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="zh.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/about/zh.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="170">
+                <caret line="10" column="218" lean-forward="false" selection-start-line="10" selection-start-column="218" selection-end-line="10" selection-end-column="218" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -156,7 +156,6 @@
         <option value="$PROJECT_DIR$/feed.xml" />
         <option value="$PROJECT_DIR$/404.html" />
         <option value="$PROJECT_DIR$/sw.js" />
-        <option value="$PROJECT_DIR$/_includes/about/zh.md" />
         <option value="$PROJECT_DIR$/offline.html" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/portfolio/index.html" />
@@ -165,6 +164,7 @@
         <option value="$PROJECT_DIR$/archive.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/_includes/about/en.md" />
+        <option value="$PROJECT_DIR$/_includes/about/zh.md" />
       </list>
     </option>
   </component>
@@ -520,7 +520,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -631,17 +631,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/about/zh.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/archive.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -663,6 +652,17 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="261">
             <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/about/zh.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="170">
+            <caret line="10" column="218" lean-forward="false" selection-start-line="10" selection-start-column="218" selection-end-line="10" selection-end-column="218" />
             <folding />
           </first_editor>
           <second_editor />
