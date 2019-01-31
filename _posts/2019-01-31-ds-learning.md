@@ -6,8 +6,6 @@ author: "RICKY"
 header-style: text
 tags:
   - Data Science
----
-
 #### Data Analyst Nanodegree
 
 We built this program with expert analysts and scientists at leading technology
@@ -26,10 +24,6 @@ Learn to clean up messy data, uncover patterns and insights, make predictions us
   8.  [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
   9. [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804)
   10. [A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
-
-
----
-
 
 #### Machine Learning Engineer Nanodegree
 
