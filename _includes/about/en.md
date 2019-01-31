@@ -2,9 +2,7 @@
 
 > Be a better man.
 
-My name is Chong(翀) Dang (党), which means always keep moving forward in Chinese. 
-
-My past 20+ years have been a long great journey. I always love trying new things and gaining new experiences.
+My name is Chong(翀) Dang (党), which means always keep moving forward in Chinese. I always love trying new things and gaining new experiences.
 
 
 ##### Before 24 - My stories in China
@@ -14,9 +12,7 @@ I went to college at Northwest University of China, one of the most prestigious 
 
 
 ##### After 24 - My stories in USA
-At the age of 24, I came to United States of America. At graduate school, I made a conscious to break out of my comfort zone and started digging into the field of Data Science and Computer Science. 
-
-During the summer break, I participated in a lot of research opportunities, such as “Online Grading Systems”, “Real Estate Analysis New York Area”, “Recommendation Systems”and so on.
+At the age of 24, I came to United States of America and . At graduate school, I made a conscious to break out of my comfort zone and started digging into the field of Data Science and Computer Science. 
 
 
 
