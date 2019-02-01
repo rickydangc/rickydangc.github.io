@@ -72,7 +72,7 @@ netease_comment: false
 
 # Google Analytics
  ga_track_id: 'UA-103840095-3'            # Format: UA-xxxxxx-xx
- ga_domain: auto
+# ga_domain: auto
 
 
 
