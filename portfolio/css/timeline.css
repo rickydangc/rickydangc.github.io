@@ -41,7 +41,7 @@ body, html {
 	position: relative;
 	max-width: 600px;
 	margin: 0 auto;
-	margin-top: 80px;
+	margin-top: 0px;
 }
 
 .cbp_tmtimeline > li {
