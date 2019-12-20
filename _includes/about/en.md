@@ -2,7 +2,7 @@
 
 > Be a better man.
 
-My name is Chong(翀) Dang (党), which means always keep moving forward in Chinese. I always love trying new things and gaining new experiences.
+My name is Chong Dang, which means always keep moving forward in Chinese. I always love trying new things and gaining new experiences.
 
 
 #### Before 24 - My stories in China
@@ -12,14 +12,9 @@ I went to college at Northwest University of China, one of the most prestigious 
 
 
 #### After 24 - My stories in United States
-At the age of 24, I came to United States of America and . At graduate school, I made a conscious to break out of my comfort zone and started digging into the field of Data Science and Computer Science. 
+At the age of 24, I came to United States of America and. At graduate school, I made a conscious to break out of my comfort zone and started digging into the field of Data Science and Computer Science. 
 
-#### Previous jobs at New York City
-- ###### IT Engineer at the New York Service Center for Chinese Study Fellows Inc.
-I have improved 50% customer base by using regression to predict user's activities and visualize their behavior for acquisition during the working.
-
-- ###### Data Scientist at Entropy Lab
-I joined an Internet-based start-up, which consists of only five persons, where I was assigned a project that involved natural language processing and data mining. I am most proud of the building of resume-parsing systems using NLP algorithms, which transforms resume from PDF, Word, and other forms to a text file by using Tika.
+Now, I’m a professional Data Scientist as well as a Data Engineer. I love data and machine learning. Currently, I'm working at American Kennel Club. I'm also a research assistant at College of Medcine, University of Florida and OMSCS student at Georgia Institute of Technology. I’d like to use data science techniques to apply on healthcare data, then we can solve a lot of problems in healthcare, help people to improve their lives. For example, we can use HER data build models for individual disease risk prediction, recommending treatments, cluster a patient into group with common characteristics and find similar patients.  
 
 
 
