@@ -1,4 +1,4 @@
-# Ricky Blog
+# Chong Dang's Blog
 
 Original from [Hux Blog](https://github.com/Huxpro/huxpro.github.io)
 
